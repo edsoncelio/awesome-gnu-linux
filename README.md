@@ -27,7 +27,8 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 * [Linux A Bíblia](https://www.amazon.com.br/Linux-B%C3%ADblia-Abrangente-Definitivo-Sobre-ebook/dp/B00OP04N8G) *PtBr*
 * [Shell Script Profissional](https://www.amazon.com.br/Script-Profissional-Aurelio-Marinho-Jargas/dp/8575221523/ref=sr_1_11?s=books&ie=UTF8&qid=1476044455&sr=1-11&keywords=linux) *PtBr*
 * [Introdução ao Linux](http://tldp.org/LDP/intro-linux/html/index.html) *Eng*
-* [Guia de Bolso Linux](http://tldp.org/LDP/Pocket-Linux-Guide/html/index.html) *Eng* <br />
+* [Guia de Bolso Linux](http://tldp.org/LDP/Pocket-Linux-Guide/html/index.html) *Eng* 
+* [Apostila de Introdução ao Linux](http://br-linux.org/tutoriais/apostila_linux.sxw.pdf) *PtBr* <br />
 
 ##Contribuições
 Quem tiver interesse em contribuir com links para sites, cursos ou livros sinta-se a vontade para mandar um pull request :)
