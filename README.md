@@ -16,7 +16,7 @@ em português.
 * [Linux.com](https://www.linux.com/tutorials)                             **Eng** <br />
 
 ###Cursos
-* [Videoaulas Bóson Treinamentos] [https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7]
+* [Videoaulas Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
 
 ###Livros
 
