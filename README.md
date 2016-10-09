@@ -13,7 +13,8 @@ em português.
 6. [IBM DeveloperWorks Brasil](http://www.ibm.com/developerworks/br/linux/) **PtBr**
 6. [Tecmint](http://www.tecmint.com/) **Eng**
 7. [Digital Ocean](https://www.digitalocean.com/community/tutorials) **Eng**
-8. Linux.com [https://www.linux.com/tutorials) **Eng**
+8. [Linux.com](https://www.linux.com/tutorials) **Eng** <br />
+
 ###Cursos
 
 ###Livros
