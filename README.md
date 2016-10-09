@@ -16,12 +16,11 @@ em português.
 * [Linux.com](https://www.linux.com/tutorials)                             **Eng** <br />
 
 ###Cursos
-* [Videoaulas Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
+* [Videoaulas Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7) **PtBr**
 
 ###Livros
-
-
-
+* [Introdução ao Linux](http://tldp.org/LDP/intro-linux/html/index.html) **Eng** 
+* [Guia de Bolso Linux](http://tldp.org/LDP/Pocket-Linux-Guide/html/index.html) **Eng**
 
 ##Contribuições
 Quem tiver interesse em contribuir com links para sites, cursos ou livros sinta-se a vontade para mandar um pull request :)
