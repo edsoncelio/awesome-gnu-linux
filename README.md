@@ -1,6 +1,6 @@
 # Awesome Gnu/linux
 Esse repositório tem objetivo difundir fontes de estudo e pesquisa sobre o Sistema Operacional Gnu/linux, principalmente 
-em português.
+em português, com o objetivo de reunir uma coleção de links para quem está começando os estudos ou aprimorando. 
 
 ##Categorias
 
