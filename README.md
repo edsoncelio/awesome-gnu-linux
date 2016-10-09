@@ -20,6 +20,7 @@ em português.
 ###Cursos
 * [Videoaulas Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7) *PtBr*
 * [Guia Foca Linux](http://www.guiafoca.org/) *PtBr*<br />
+* [Introdução ao Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) *Eng*
 
 ###Livros
 * [Descobrindo o Linux](http://novatec.com.br/livros/linux3/) *PtBr*
