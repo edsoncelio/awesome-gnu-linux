@@ -24,7 +24,7 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 * [Introdução ao Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) *Inglês* <br />
 
 ###Livros
-* [Descobrindo o Linux](http://novatec.com.br/livros/linux3/) *PtBr*
+* [Descobrindo o Linux](http://novatec.com.br/livros/linux3/) *Português*
 * [Linux A Bíblia](https://www.amazon.com.br/Linux-B%C3%ADblia-Abrangente-Definitivo-Sobre-ebook/dp/B00OP04N8G) *Português*
 * [Shell Script Profissional](https://www.amazon.com.br/Script-Profissional-Aurelio-Marinho-Jargas/dp/8575221523/ref=sr_1_11?s=books&ie=UTF8&qid=1476044455&sr=1-11&keywords=linux) *Português*
 * [Introdução ao Linux](http://tldp.org/LDP/intro-linux/html/index.html) *Inglês*
