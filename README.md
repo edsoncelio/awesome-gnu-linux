@@ -23,6 +23,7 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 ###Cursos
 * [Videoaulas Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7) *Português*
 * [Guia Foca Linux](http://www.guiafoca.org/) *Português*
+* [Linux Essencial](https://www.netacad.com/courses/linux-essentials/) *Inglês*
 * [Introdução ao Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) *Inglês* <br />
 
 ###Livros
