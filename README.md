@@ -4,6 +4,7 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 
 ##Categorias
 
+
 ###Sites 
 * [VivaoLinux](https://www.vivaolinux.com.br/)                             *Ptbr*
 * [SempreUpdate](http://www.sempreupdate.com.br/)                          *PtBr*
@@ -29,6 +30,9 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 * [Introdução ao Linux](http://tldp.org/LDP/intro-linux/html/index.html) *Eng*
 * [Guia de Bolso Linux](http://tldp.org/LDP/Pocket-Linux-Guide/html/index.html) *Eng* 
 * [Apostila de Introdução ao Linux](http://br-linux.org/tutoriais/apostila_linux.sxw.pdf) *PtBr* <br />
+
+##Extras
+* [Emulador de Terminal Online](https://www.tutorialspoint.com/unix_terminal_online.php) <br />
 
 ##Contribuições
 Quem tiver interesse em contribuir com links para sites, cursos ou livros sinta-se a vontade para mandar um pull request :)
