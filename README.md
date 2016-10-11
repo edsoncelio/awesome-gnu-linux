@@ -5,7 +5,7 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 ##Categorias
 
 
-###Sites 
+###Sites e Blogs
 * [VivaoLinux](https://www.vivaolinux.com.br/)                             *Português*
 * [SempreUpdate](http://www.sempreupdate.com.br/)                          *Português*
 * [Linux Descomplicado](http://www.linuxdescomplicado.com.br/)             *Português*
@@ -14,6 +14,8 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 * [IBM DeveloperWorks Brasil](http://www.ibm.com/developerworks/br/linux/) *Português*
 * [Br Linux](http://br-linux.org/)                                         *Português*
 * [Portal Brasileiro de Shell Script](http://aurelio.net/shell/)           *Português*
+* [Toca do Tux](http://www.tocadotux.com.br/)                              *Português*
+* [Seja Livre](http://sejalivre.org/)                                      *Português*
 * [Tecmint](http://www.tecmint.com/)                                       *Inglês*
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials)        *Inglês*
 * [Linux.com](https://www.linux.com/tutorials)                             *Inglês* <br />
