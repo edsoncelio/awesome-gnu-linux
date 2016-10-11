@@ -32,7 +32,7 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 * [Apostila de Introdução ao Linux](http://br-linux.org/tutoriais/apostila_linux.sxw.pdf) *PtBr* <br />
 
 ##Extras
-* [Emulador de Terminal Online](https://www.tutorialspoint.com/unix_terminal_online.php) <br />
+* [Emulador de Terminal Online](https://www.tutorialspoint.com/unix_terminal_online.php) *Eng* <br />
 
 ##Contribuições
 Quem tiver interesse em contribuir com links para sites, cursos ou livros sinta-se a vontade para mandar um pull request :)
