@@ -32,6 +32,7 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 * [Shell Script Profissional](https://www.amazon.com.br/Script-Profissional-Aurelio-Marinho-Jargas/dp/8575221523/ref=sr_1_11?s=books&ie=UTF8&qid=1476044455&sr=1-11&keywords=linux) *Português*
 * [Introdução ao Linux](http://tldp.org/LDP/intro-linux/html/index.html) *Inglês*
 * [Guia de Bolso Linux](http://tldp.org/LDP/Pocket-Linux-Guide/html/index.html) *Inglês* 
+* [LPI Linux Certification in a Nutshell](http://www.altabooks.com.br/index.php?dispatch=attachments.getfile&attachment_id=1357%C2%A0) *Português* 
 * [Apostila de Introdução ao Linux](http://br-linux.org/tutoriais/apostila_linux.sxw.pdf) *Português* <br />
 
 ##Extras
