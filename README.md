@@ -18,7 +18,8 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 * [Seja Livre](http://sejalivre.org/)                                      *Português*
 * [Tecmint](http://www.tecmint.com/)                                       *Inglês*
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials)        *Inglês*
-* [Linux.com](https://www.linux.com/tutorials)                             *Inglês* <br />
+* [Linux.com](https://www.linux.com/tutorials)                             *Inglês* 
+* [OmgUbuntu](http://www.omgubuntu.co.uk/)                                 *Inglês*
 
 ### Cursos
 * [Videoaulas Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7) *Português*
