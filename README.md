@@ -16,6 +16,7 @@ em português, com o objetivo de reunir uma coleção de links para quem está c
 * [Portal Brasileiro de Shell Script](http://aurelio.net/shell/)           *Português*
 * [Toca do Tux](http://www.tocadotux.com.br/)                              *Português*
 * [Seja Livre](http://sejalivre.org/)                                      *Português*
+* [Gnu Linux Brasil](http://gnulinuxbrasil.com.br/)                        *Português*
 * [Tecmint](http://www.tecmint.com/)                                       *Inglês*
 * [Digital Ocean](https://www.digitalocean.com/community/tutorials)        *Inglês*
 * [Linux.com](https://www.linux.com/tutorials)                             *Inglês* 
